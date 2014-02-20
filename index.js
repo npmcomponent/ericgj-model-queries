@@ -1,5 +1,5 @@
-var request = require('superagent')
-  , Collection = require('collection')
+var request = require('visionmedia-superagent')
+  , Collection = require('component-collection')
 
 module.exports = function anonymous(model){
   

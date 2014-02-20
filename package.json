@@ -1,0 +1,12 @@
+{
+  "name": "ericgj-model-queries",
+  "description": "Custom collection endpoints for component/model",
+  "version": "0.1.6",
+  "keywords": [],
+  "dependencies": {
+    "visionmedia-superagent": "git://github.com/npmcomponent/visionmedia-superagent.git",
+    "component-collection": "git://github.com/npmcomponent/component-collection.git",
+    "component-model": "git://github.com/npmcomponent/component-model.git"
+  },
+  "license": "MIT"
+}
